@@ -1,2 +1,2 @@
-echo "helloworld"
-sleep 60
+"helloworld"
+sleep
