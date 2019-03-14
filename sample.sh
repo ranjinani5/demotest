@@ -1,4 +1,4 @@
-echo "helllo"
+
 
 # Add two numeric value
 ((sum=25+35))
