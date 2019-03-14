@@ -1,2 +1,1 @@
-"helloworld"
-sleep
+echo "hello"
