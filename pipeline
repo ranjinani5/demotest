@@ -1,5 +1,4 @@
 
-    agent any
     stages {
         /* "Build" and "Test" stages omitted */
 
